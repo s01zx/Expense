@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#800080</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#ffbf00</color>
+
+    <color name="magnitude1">#4A7BA7</color>
+    <color name="magnitude2">#FF7D50</color>
+    <color name="magnitude3">#D93218</color>
+</resources>
